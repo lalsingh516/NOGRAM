@@ -1,0 +1,6 @@
+{
+  "name": "NOGRAM",
+  "description": "Telegram-style high-performance messaging platform with community hubs, stories, and secure AI Assistant features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
